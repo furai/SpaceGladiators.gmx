@@ -10,6 +10,7 @@
     <sprite>sprites\brick</sprite>
     <sprite>sprites\bomb</sprite>
     <sprite>sprites\hero</sprite>
+    <sprite>sprites\blink</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -18,6 +19,7 @@
     <object>objects\obj_brick</object>
     <object>objects\obj_bomb</object>
     <object>objects\obj_hero</object>
+    <object>objects\explosion</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
