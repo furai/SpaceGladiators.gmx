@@ -13,8 +13,13 @@
     <sprite>sprites\sprite9</sprite>
     <sprite>sprites\sprite10</sprite>
     <sprite>sprites\sprite11</sprite>
+    <sprite>sprites\sprite12</sprite>
+    <sprite>sprites\sprite13</sprite>
+    <sprite>sprites\sprite14</sprite>
   </sprites>
-  <backgrounds name="background"/>
+  <backgrounds name="background">
+    <background>background\background0</background>
+  </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\obj_wall</object>
@@ -24,9 +29,16 @@
     <object>objects\explosion</object>
     <object>objects\object_enemy</object>
     <object>objects\ob_explosion</object>
+    <object>objects\obj_Play</object>
+    <object>objects\obj_Title</object>
+    <object>objects\obj_Coin</object>
+    <object>objects\obj_Control</object>
   </objects>
   <rooms name="rooms">
+    <room>rooms\Start</room>
     <room>rooms\room0</room>
+    <room>rooms\room1</room>
+    <room>rooms\room2</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
