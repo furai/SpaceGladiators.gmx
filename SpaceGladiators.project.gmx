@@ -6,11 +6,13 @@
   <NewExtensions/>
   <sounds name="sound"/>
   <sprites name="sprites">
-    <sprite>sprites\Wall</sprite>
-    <sprite>sprites\brick</sprite>
-    <sprite>sprites\bomb</sprite>
-    <sprite>sprites\hero</sprite>
-    <sprite>sprites\blink</sprite>
+    <sprite>sprites\sprite5</sprite>
+    <sprite>sprites\sprite6</sprite>
+    <sprite>sprites\sprite7</sprite>
+    <sprite>sprites\sprite8</sprite>
+    <sprite>sprites\sprite9</sprite>
+    <sprite>sprites\sprite10</sprite>
+    <sprite>sprites\sprite11</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -20,6 +22,8 @@
     <object>objects\obj_bomb</object>
     <object>objects\obj_hero</object>
     <object>objects\explosion</object>
+    <object>objects\object_enemy</object>
+    <object>objects\ob_explosion</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
