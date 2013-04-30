@@ -208,6 +208,7 @@
     <instance objName="object_enemy" x="544" y="384" name="inst_7E15F0C2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="object_enemy" x="320" y="224" name="inst_F5F239A6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_Control" x="64" y="32" name="inst_6784DEC1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="death_guy" x="576" y="288" name="inst_4E1ED1D4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
