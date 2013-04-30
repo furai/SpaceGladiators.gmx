@@ -200,10 +200,8 @@
     <instance objName="obj_hero" x="48" y="48" name="inst_0D76EA6C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="object_enemy" x="544" y="288" name="inst_1833996C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="object_enemy" x="576" y="320" name="inst_33F6E209" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="object_enemy" x="576" y="256" name="inst_05085B75" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="object_enemy" x="576" y="160" name="inst_90FBE4CF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="object_enemy" x="256" y="288" name="inst_EF1855C3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="object_enemy" x="320" y="288" name="inst_DFB57537" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="object_enemy" x="416" y="288" name="inst_D2F74029" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_wall" x="256" y="32" name="inst_600FE5E1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_wall" x="224" y="416" name="inst_8C604FD9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -228,7 +226,6 @@
     <instance objName="obj_brick" x="64" y="352" name="inst_5E8DEF58" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_brick" x="64" y="320" name="inst_A1392651" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="object_enemy" x="128" y="416" name="inst_704CD09C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="object_enemy" x="32" y="416" name="inst_E46C5AB9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="object_enemy" x="320" y="32" name="inst_18257F45" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="object_enemy" x="352" y="160" name="inst_FF9D9F7D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_brick" x="512" y="288" name="inst_44023782" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
